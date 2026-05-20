@@ -1,7 +1,7 @@
 # Roquellan Systems
 
 <p align="center">
-  <img src="https://via.placeholder.com/1280x420/0f172a/60a5fa?text=ROQUELLAN+SYSTEMS" alt="Roquellan Systems Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <img src="https://roquellan.orbmiv.com/" alt="Roquellan Systems Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </p>
 
 <p align="center">
