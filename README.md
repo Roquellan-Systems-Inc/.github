@@ -5,18 +5,6 @@
   <em>Architecture-first • Security-native • Built for the AI era</em>
 </p>
 
-<p align="center">
-  <a href="#about">About</a> • 
-  <a href="#philosophy">Philosophy</a> • 
-  <a href="#capabilities">Capabilities</a> • 
-  <a href="#architecture">Architecture</a> • 
-  <a href="#matrix">Capabilities Matrix</a> • 
-  <a href="#industries">Industries</a> • 
-  <a href="#network">Engineering Network</a>
-</p>
-
----
-
 ## About Roquellan Systems
 
 **Roquellan Systems** is a premium AI development and digital infrastructure company specializing in scalable software platforms, structured data ecosystems, and secure private AI environments for ambitious organizations.
