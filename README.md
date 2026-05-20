@@ -1,10 +1,6 @@
 # Roquellan Systems
 
 <p align="center">
-  <img src="https://roquellan.orbmiv.com/" alt="Roquellan Systems Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
-</p>
-
-<p align="center">
   <strong>Engineering Intelligent Digital Infrastructure</strong><br>
   <em>Architecture-first • Security-native • Built for the AI era</em>
 </p>
