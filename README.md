@@ -86,54 +86,7 @@ Build systems that scale with clarity, security, and precision.
 
 ---
 
-## System Architecture Overview
-
-### 1. High-Level System Flow
-
-```mermaid
-flowchart TD
-    A[Business Operations] --> B[Data Architecture Layer]
-    B --> C[Structured Data Foundation\nLakehouse + Governance]
-    C --> D[AI & Intelligence Layer]
-    D --> E[Private AI Deployments\nLLM + Agents + RAG]
-    E --> F[Platform & Execution Layer\nWeb • Mobile • Internal Systems]
-    F --> G[Observable Outcomes\nAutomation • Decisions • Efficiency]
-    
-    subgraph "Security & Compliance"
-        H[Zero-Trust Access Control]
-        I[Encryption & Audit]
-        J[Regulatory Frameworks]
-    end
-    
-    C -.-> H
-    D -.-> I
-    E -.-> J
-    
-    
-```markdown
-### 2. High-Level Capability Flow
-
-```mermaid
-graph TD
-    A[Client Requirements] --> B{Architecture Assessment}
-    B --> C[Data Architecture & Governance]
-    B --> D[Platform & Systems Engineering]
-    B --> E[Private AI Infrastructure]
-    B --> F[AI & Automation Systems]
-    
-    C --> G[AI-Ready Structured Data]
-    D --> G
-    E --> H[Secure AI Runtime]
-    F --> H
-    
-    G & H --> I[Production Intelligent Systems]
-    I --> J[Measurable Business Impact]
-    
-    style B fill:#1e2937,stroke:#60a5fa,stroke-width:2px
-    style I fill:#22c55e,stroke:#86efac,stroke-width:2px
-    style J fill:#eab308,stroke:#fef08c
-    
-    ## Technical Capability Matrix
+## Technical Capability Matrix
 
 | Category                        | Core Technologies & Frameworks                                      | Key Deliverables                              | Compliance & Security Standards                  |
 |--------------------------------|---------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
