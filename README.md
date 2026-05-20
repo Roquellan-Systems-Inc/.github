@@ -88,6 +88,8 @@ Build systems that scale with clarity, security, and precision.
 
 ## System Architecture Overview
 
+### 1. High-Level System Flow
+
 ```mermaid
 flowchart TD
     A[Business Operations] --> B[Data Architecture Layer]
@@ -107,7 +109,12 @@ flowchart TD
     D -.-> I
     E -.-> J
     
-    graph TD
+    
+```markdown
+### 2. High-Level Capability Flow
+
+```mermaid
+graph TD
     A[Client Requirements] --> B{Architecture Assessment}
     B --> C[Data Architecture & Governance]
     B --> D[Platform & Systems Engineering]
